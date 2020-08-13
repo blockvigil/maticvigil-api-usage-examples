@@ -1,0 +1,9 @@
+{
+  "development": {
+    "REST_API_ENDPOINT": "https://mainnet-api.maticvigil.com/v1.0",
+    "INTERNAL_API_ENDPOINT": "https://mainnet.maticvigil.com/api",
+    "MATICVIGIL_USER_ADDRESS": "0xaddr",
+    "MATICVIGIL_API_KEY": "1212-1212-12-12"
+  }
+}
+

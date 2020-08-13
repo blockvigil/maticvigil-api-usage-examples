@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+settings.json
+.idea/
+.python-version
+__pycache__/
+*.egg-info/
